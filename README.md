@@ -13,10 +13,10 @@ Run the Jupyter notebook or Python script to preprocess the data, train the mode
 
 ### Data Preprocessing
 
-Handle missing values
-Convert categorical features to numerical
-Feature selection
+- Handle missing values
+- Convert categorical features to numerical
+- Feature selection
 
 ### Models Used
-Naive Bayes
-TPOT Classifier (AutoML)
+- Naive Bayes
+- TPOT Classifier (AutoML)
